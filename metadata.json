@@ -1,0 +1,7 @@
+{
+  "name": "Copy of The People's Law",
+  "description": "An expert AI legal assistant specializing in US Constitution, Statutes, and Case Law. Teacher/tutor Powered by Gemini with Google Search grounding for accurate citations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
